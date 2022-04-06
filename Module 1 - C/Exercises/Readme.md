@@ -2,15 +2,12 @@
 
 Exercício 1: Mario versão fácil / Exercise 1: Mario easy version
 ----------------------------------------------------------------
-Recriar a "pirâmide do Mario" em C, usando hashes ( # ) para tijolos / Recreat.e "Mario's pyramid" in C, using hashes (#) as bricks.
-       #
-      ##
-     ###
-    ####
-   #####
-  ######
- #######
-########
+Recriar a "pirâmide do Mario" em C, usando hashes ( # ) para tijolos / Recreat.e "Mario's pyramid" in C, using hashes (#) as bricks
+.....#
+....##
+...###
+..####
+.#####
 
 Exercício 2: Mario versão desafiadora / Exercise 2: Mario challenging version
 -----------------------------------------------------------------------------
