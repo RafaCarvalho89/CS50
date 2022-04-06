@@ -6,6 +6,7 @@ Esse é o curso introdutório de Ciência da Computação de Harvard, um dos cur
 O curso é dividido em módulos com os conteúdos mais exercícios e laboratórios para prática. Os exercícios são divididos em versôes facéis, que são resolvidos com o conteúdo básico do módulo,  e desafios, que necessitam de um aprofudamento maior na lógica de programação. Os laboratórios são um exercício para revisar e ajudar a memorizar todo assunto do módulo.
 
 Têm módulos de C, Python, SQL, entre outros de forma introdutória.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is the Harvard Computer Science introductory course, one of the most famous in the world. This course it's given to the Harvard students on their first semester. 
 
