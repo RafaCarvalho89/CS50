@@ -16,7 +16,7 @@ Recriar a "pirâmide do Mario" em C, usando hashes ( # ) para tijolos / Recreate
 
 Exercício 2: Mario versão desafiadora / Exercise 2: Mario challenging version
 -----------------------------------------------------------------------------
-Duplicar a "pirâmide do Mario" em C. / 
+Duplicar a "pirâmide do Mario" em C. / Duplicate "Mario's pyramid" in C.
 
 ....#  #
 
