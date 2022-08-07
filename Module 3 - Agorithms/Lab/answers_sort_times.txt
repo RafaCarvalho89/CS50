@@ -3,15 +3,15 @@ sort 1 - bubble sort
 	random5000 - real time 0.106s					    |	selection sort
 	reverserd5000 - real time 0.076s				    |	O(n²) - worst case slow
 	sorted5000 - real time 0.041s					    |	Ω(n²) - best case slow
-										                |
-	random10000 - real time 0.292s				        |	bubble sort
+										    ------------------------------
+	random10000 - real time 0.292s				    |	bubble sort
 	reverserd10000 - real time 0.263s				    |	O(n²) - worst case slow
-	sorted10000 - real time 0.068s				        |	Ω(n)  - best case fast
-										                |
-	random50000 - real time 7.589s				        |	merge sort
+	sorted10000 - real time 0.068s				    |	Ω(n)  - best case fast
+										    ------------------------------            
+	random50000 - real time 7.589s				    |	merge sort
 	reverserd50000 - real time 6.011s				    |	O(n logn) - worst case fast
-	sorted50000 - real time 0.860s				        |  	Ω(n logn) - best case fast
-------------------------------------------------------	|
+	sorted50000 - real time 0.860s				    | Ω(n logn) - best case fast
+------------------------------------------------------	    
 sort 2 - merge sort
 
 	random5000 - real time 0.031s
