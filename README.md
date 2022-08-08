@@ -7,7 +7,9 @@ O curso é dividido em módulos com os conteúdos mais exercícios e laboratóri
 
 Têm módulos de C, Python, SQL, entre outros de forma introdutória.
 
-Todos os exercícios e laboratórios foram feitos em https://ide.cs50.io (IDE própria do curso)
+Todos os exercícios e laboratórios foram feitos na [IDE própria do curso](https://ide.cs50.io).
+
+Mais informações [aqui](https://cs50.harvard.edu/x/2021/).
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is the Harvard Computer Science introductory course, one of the most famous in the world. This course it's given to the Harvard students on their first semester. 
@@ -16,4 +18,6 @@ The course is divided in modules, each one has the content plus exercises and la
 
 There are modules of C, Python, SQL, among others as introduction of it.
 
-All exercises and labs were made in https://ide.cs50.io (IDE from the course)
+All exercises and labs were made in the [IDE from the course](https://ide.cs50.io)
+
+More information [here](https://cs50.harvard.edu/x/2021/).
