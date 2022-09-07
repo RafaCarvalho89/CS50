@@ -1,6 +1,6 @@
 # Módulo 5 - Estrutura de Dados / Module 5 - Data Structures
 
-O módulo 5 é sobre estruturas de dados, redimensionamento de arrays. linked lists, árvores e outras estruturas de dados. Esse módulo introduz esses conceitos ainda utilzando a linguagem C.
+O módulo 5 é sobre estruturas de dados, redimensionamento de arrays, linked lists, árvores e outras estruturas de dados. Esse módulo introduz esses conceitos ainda utilzando a linguagem C.
 
 ### Informações completas sobre o módulo, exercícios (Problem Set 5) e lab 5 [aqui](https://cs50.harvard.edu/x/2021/weeks/5/).
 
